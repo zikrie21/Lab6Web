@@ -21,6 +21,7 @@
 ![gambar 7](screenshot/ss7.png)
 
 - Berikut Merupakan Tampilan Web nya :
-  ![gambar 9](screenshot/ss8.png)
+
+![gambar 9](screenshot/ss8.png)
 
 ![gambar 10](screenshot/ss9.png)
